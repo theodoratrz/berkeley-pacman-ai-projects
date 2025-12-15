@@ -1,19 +1,49 @@
-# Berkeley_Pacman_Project
-Implementation of Berkeley's Pacman Project as a part of Artificial Intelligence course.
-Winter 2020
-## Project 1:
-- Pac-Man Project 1, focused on Search Algorithms, modelling Problem States & Heuristic Functions
-- DFS
-- BFS
-- Uniform-Cost Search
-- A* Search
-- Specific Problem (navigation, travelling salesman) modelling (starting state, goal state check, creating successor states)
-- Implementing & Experimenting with Heuristic Functions (admissable, optimal, greedy)
+# Berkeley Pacman AI Projects
 
-## Project 2:
-- Pac-Man Project 2, focused on Multi-Agent Search Algorithms & implementing Evaluation Functions.
-- Dummy Reflex Agent
-- MiniMax
-- Alpha-Beta Pruning
-- Expectimax
-- Implementing a custom Evaluation Function by experimenting & tuning on the considered parameters and their weights.
+This repository contains implementations of AI assignments based on the
+**Berkeley Pacman Projects**, an educational framework used to teach
+foundational artificial intelligence concepts.
+
+The projects focus on classical search algorithms and decision-making in
+multi-agent environments, using the Pacman game as a testbed.
+---
+
+## Projects Included
+
+### Project 1 — Search Algorithms
+
+Implemented classical search techniques to navigate Pacman through mazes:
+
+- **Depth-First Search (DFS)**
+- **Breadth-First Search (BFS)**
+- **Uniform-Cost Search (UCS)**
+- **A* Search**, with admissible heuristics
+
+These algorithms model the maze as a state space and find paths toward
+goals efficiently.
+
+---
+
+### Project 2 — Multi-Agent Search
+
+Extended the search framework to **adversarial settings** with ghosts:
+
+- **Reflex Agent**
+- **Minimax Agent**
+- **Alpha-Beta Pruning**
+- **Expectimax**
+
+Also includes custom **evaluation functions** to guide Pacman’s decisions
+in the presence of opponents.
+
+---
+
+## Key Concepts
+
+- Problem modeling as a **state space**
+- Uninformed and informed search strategies
+- Adversarial decision-making
+- Heuristic design and evaluation
+- Performance trade-offs in search algorithms
+
+---
