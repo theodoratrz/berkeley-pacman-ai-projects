@@ -4,13 +4,12 @@ This repository contains implementations of AI assignments based on the
 **Berkeley Pacman Projects**, an educational framework used to teach
 foundational artificial intelligence concepts.
 
-The projects focus on classical search algorithms and decision-making in
-multi-agent environments, using the Pacman game as a testbed.
+#### The projects focus on classical search algorithms and decision-making in multi-agent environments, using the Pacman game as a testbed.
 ---
 
 ## Projects Included
 
-### Project 1 — Search Algorithms
+### Project 1 - Search Algorithms
 
 Implemented classical search techniques to navigate Pacman through mazes:
 
@@ -24,7 +23,7 @@ goals efficiently.
 
 ---
 
-### Project 2 — Multi-Agent Search
+### Project 2 - Multi-Agent Search
 
 Extended the search framework to **adversarial settings** with ghosts:
 
